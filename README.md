@@ -6,10 +6,24 @@ More info: A quick intro: Application Insights for your Angular Java stack
 
 To setup the demo:
 
+```
 npm install
+```
+
+Update the config file to include the correct Instrumentation Key (/assets/config/config.{environment}.json)
+
+```
+{
+  "environmentName": "develop",
+  "endPointApiUrl": "http://localhost:8080",
+  "instrumentation": "#{INSTRUMENTATION_KEY}#"
+}
+```
 
 To run the demo:
 
+```
 npm run start
+```
 
 and navigate with your browser to http://localhost:4200
