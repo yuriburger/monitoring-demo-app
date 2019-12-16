@@ -1,0 +1,5 @@
+{
+  "environmentName": "develop",
+  "endPointApiUrl": "http://localhost:8080",
+  "instrumentation": "#{INSTRUMENTATION_KEY}#"
+}
