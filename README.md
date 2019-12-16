@@ -1,27 +1,15 @@
 # App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+This source code is part of a blogpost about what you need to configure to enable Application Insights with distributed tracing (correlation) for your Angular-Java stack.
 
-## Development server
+More info: A quick intro: Application Insights for your Angular Java stack
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+To setup the demo:
 
-## Code scaffolding
+npm install
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+To run the demo:
 
-## Build
+npm run start
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+and navigate with your browser to http://localhost:4200
