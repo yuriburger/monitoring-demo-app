@@ -2,7 +2,7 @@
 
 This source code is part of a blogpost about what you need to configure to enable Application Insights with distributed tracing (correlation) for your Angular-Java stack.
 
-More info: A quick intro: Application Insights for your Angular Java stack
+More info: [A quick intro: Application Insights for your Angular Java stack](https://yuriburger.net/2019/12/17/a-quick-intro-application-insights-for-your-angular-java-stack/)
 
 To setup the demo:
 
